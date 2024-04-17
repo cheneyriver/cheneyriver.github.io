@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Junliang Chen",
-    "label": "Scientist",
+    "label": "Student in XJTU",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jlcheney_chen@163.com",
+    "phone": "",
+    "url": "https://cheneyriver.github.io",
+    "summary": "A boy who loves computational social scienc and social computing",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Xi'an",
+      "countryCode": "China",
+      "region": "Shannxi"
     },
     "profiles": [
       {
