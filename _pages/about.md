@@ -21,12 +21,12 @@ social: true # includes social icons at the bottom of the page
 Hi, there! 🥰
 
 
-I am a third-year student in Xi'an Jiaotong University in China. My major is Mathmatical Economics and Finance(minor in computer science).
-you can find my CV through this [-link-](https://cheneyriver.github.io/assets/pdf/cv.pdf)
+I am currently a third-year student at Xi'an Jiaotong University in China, majoring in Mathematical Economics with a minor in Computer Science.   You can view my CV through this [link](https://cheneyriver.github.io/assets/pdf/cv.pdf).
 
-- Currently, I am very interested in social big data. Specifically, I like to clarify the patterns of human behavior through the discovery, mining and interpretation of data, such as the published data of papers, the text data of people on social media and other similar data.
+My academic interests are deeply rooted in the exploration of social big data. Specifically, I am fascinated by uncovering patterns in human behavior through the analysis and interpretation of various data types, including academic publication records and social media text data.
 
-- Beyond that, I have a huge passion for the interaction between people and technology. For example, how today's big language models, like ChatGPT, will change the way people live and think, and thus improve care in education or healthcare (I think that in many places, the care of vulnerable people is not as good as a qualified AI, which I hate to see, but it is true), And a sociological perspective to examine the people and society behind algorithms and technologies.
+Additionally, I have a profound interest in the intersection of human interaction and technology. I am particularly curious about how modern advancements, such as big language models like ChatGPT, are reshaping our lives and thought processes. This includes their potential to enhance care in sectors like education and healthcare, where I believe AI can sometimes offer more precise support than traditional methods, particularly for vulnerable groups. My research also takes a sociological lens to examine the societal impacts behind algorithms and technology.
 
-In my current research, I mainly use quantitative and qualitative analysis, among which quantitative methods include econometrics, bibliometrics or statistics (my undergraduate training in economics has greatly cultivated my empirical analysis ability), and some common machine learning and deep learning methods (such as NLP). Qualitative analysis mainly involves semi-structured interview, questionnaire design, etc. My love for social science makes me full of enthusiasm for qualitative analysis.
+In my research endeavors, I employ a blend of quantitative and qualitative methodologies. On the quantitative side, my toolkit includes econometrics, bibliometrics, statistics, and various machine learning techniques, such as natural language processing (NLP)—skills honed through my undergraduate studies in economics. For qualitative insights, I rely on methods like semi-structured interviews and questionnaire design. My passion for social sciences drives my enthusiasm for qualitative research and analysis.
+
 
