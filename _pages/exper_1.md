@@ -1,0 +1,3 @@
+## 2023.1-present
+
+I am a research assistant under Professor [Liu Meijun's](https://igpp.fudan.edu.cn/igppen/e7/da/c20933a255962/page.htm) team in Fudan University and [Ying Ding's](https://www.ischool.utexas.edu/people/people-details?PersonID=399). In Professor Liu's group, I am mainly engaged in science of science, and in Professor Ding's group, I am engaged in the study of large language models.
