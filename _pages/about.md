@@ -29,4 +29,6 @@ Additionally, I have a profound interest in the intersection of human interactio
 
 In my research endeavors, I employ a blend of quantitative and qualitative methodologies. On the quantitative side, my toolkit includes econometrics, bibliometrics, statistics, and various machine learning techniques, such as natural language processing (NLP)—skills honed through my undergraduate studies in economics. For qualitative insights, I rely on methods like semi-structured interviews and questionnaire design. My passion for social sciences drives my enthusiasm for qualitative research and analysis.
 
+Right now, I am studying the front-end development, which is really interesting and helpful for my research.
+
 
