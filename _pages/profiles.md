@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: experence
+title: experience
 description: my experience
 nav: true
 nav_order: 7
@@ -25,7 +25,7 @@ profiles:
       <p></p>
       <p></p>
       <p></p>
-  - align: left
+  - align: right
     image: CityU.jpg
     content: exper_2.md
     image_circular: false # crops the image to make it circular
