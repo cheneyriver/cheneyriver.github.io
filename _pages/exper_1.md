@@ -1,3 +1,4 @@
 ## 2023.1-present
 
-I am a research assistant under Professor [Liu Meijun's](https://igpp.fudan.edu.cn/igppen/e7/da/c20933a255962/page.htm) team in Fudan University and [Ying Ding's](https://www.ischool.utexas.edu/people/people-details?PersonID=399). In Professor Liu's group, I am mainly engaged in science of science, and in Professor Ding's group, I am engaged in the study of large language models.
+
+I am a research assistant in the teams of Professor [Liu Meijun's](https://igpp.fudan.edu.cn/igppen/e7/da/c20933a255962/page.htm) at Fudan University and Professor [Ying Ding's](https://www.ischool.utexas.edu/people/people-details?PersonID=399) at the University of Texas at Austin. Under their mentorship, I have had the opportunity to engage in several fascinating projects. Under Professor Liu's guidance, I have worked on three key projects: talent mobility, the reciprocity of scientific networks, and the public impact of public management papers. Additionally, Professor Ding's Reading Room has provided an excellent platform for me to learn and exchange knowledge about AI, particularly the applications of large language models (LLMs) in healthcare.
