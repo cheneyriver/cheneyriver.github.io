@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /experience/
 title: experience
 description: my experience
 nav: true
