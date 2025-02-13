@@ -27,11 +27,11 @@ You can check my CV through this [link](https://cheneyriver.github.io/assets/pdf
 
 ##### Research Interest: Compuatational Social Science & Human-AI Interaction
 
-1) Information Seeking on Online Platforms and Better of Information Ecosystems
-In the digital age, online platforms have become the primary sources for people to search for various types of information. I am deeply interested in understanding the underlying mechanisms of how individuals navigate through these platforms to find the information they need.
-On one hand, I focus on the cognitive and behavioral aspects of information search. How do users formulate search queries? How do they interpret and process the information they receive? I aim to understand these factors that can help users make informed decisions about their information needs.
+1. Information Seeking on Online Platforms and Better of Information Ecosystems
+  In the digital age, online platforms have become the primary sources for people to search for various types of information. I am deeply interested in understanding the underlying mechanisms of how individuals navigate through these platforms to find the information they need.
+  On one hand, I focus on the cognitive and behavioral aspects of information search. How do users formulate search queries? How do they interpret and process the information they receive? I aim to understand these factors that can help users make informed decisions about their information needs.
 
-On the other hand, I am committed to improving the information ecosystem on these platforms. The current online environment is often plagued by issues such as information overload, misinformation, and echo chambers. I explore ways to design algorithms and interfaces that can filter out irrelevant and false information, and present users with more diverse and accurate content. 
+  On the other hand, I am committed to improving the information ecosystem on these platforms. The current online environment is often plagued by issues such as information overload, misinformation, and echo chambers. I explore ways to design algorithms and interfaces that can filter out irrelevant and false information, and present users with more diverse and accurate content. 
 
 2) Exploring New Modes of Human - Gen AI Interaction and Its Potential Applications in Daily Life
 
