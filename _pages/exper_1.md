@@ -1,4 +1,6 @@
-## 2023.1-present
+## 2024.11-present
 
+I have also been a research assistant in Professor [Ehsan Mohammadi's](https://sites.google.com/view/ehsan-mohammadi) team at University of South Carolina. I mainly work on one project:
 
-I am a research assistant in the teams of Professor [Liu Meijun's](https://igpp.fudan.edu.cn/igppen/e7/da/c20933a255962/page.htm) at Fudan University and Professor [Ying Ding's](https://www.ischool.utexas.edu/people/people-details?PersonID=399) at the University of Texas at Austin. Under their mentorship, I have had the opportunity to engage in several fascinating projects. Under Professor Liu's guidance, I have worked on three key projects: talent mobility, the reciprocity of scientific networks, and the public impact of public management papers. Additionally, Professor Ding's Reading Room has provided an excellent platform for me to learn and exchange knowledge about AI, particularly the applications of large language models (LLMs) in healthcare.
+1. Analysis of Global English - speaking Universities' Policies on Gen AI through NLP and Web Crawling
+
