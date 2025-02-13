@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: GMU.jpg
-    content: experience.md
+    content: exper_0.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p></p>
