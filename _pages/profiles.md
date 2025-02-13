@@ -14,15 +14,9 @@ profiles:
     content: exper_0.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p></p>
-      <p></p>
-      <p></p>
-  - align: left
+  - align: right
     image: uofsc.jpg
     content: exper_1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p></p>
-      <p></p>
-      <p></p>
 ---
