@@ -1,7 +1,7 @@
 /* Personal profile overrides; the Academic Pages theme remains the base. */
 :root { --profile-accent: #245b60; --profile-muted: #677477; --profile-line: #dde5e3; }
 html { scroll-behavior: smooth; }
-body { line-height: 1.75; }
+body { line-height: 1.75; padding-bottom: 0; margin-bottom: 0 !important; }
 .masthead { border-bottom-color: var(--profile-line); }
 .masthead__menu-item--lg a { font-weight: 750; letter-spacing: -.035em; }
 .page__title { font-size: 2.6em; letter-spacing: -.045em; line-height: 1.12; margin-bottom: .65em; }
@@ -41,7 +41,8 @@ body { line-height: 1.75; }
 .sidebar .author__bio { margin-bottom: 1.1em; }
 .author__urls { font-size: .85em; }
 .author__urls li { white-space: normal; }
-.page__footer { margin-top: 3em; }
+.author__urls-wrapper .btn { background: transparent; color: var(--global-text-color); border: 1px solid var(--profile-line); }
+.page__footer { position: relative; bottom: auto; margin-top: 3em; }
 [data-theme='dark'] { --profile-accent: #8ac6bc; --profile-muted: #a6b8b5; --profile-line: #394c49; }
 [data-theme='dark'] .profile-button { background: #245b60; border-color: #45837c; }
 [data-theme='dark'] .profile-button:hover { background: #316e69; }
