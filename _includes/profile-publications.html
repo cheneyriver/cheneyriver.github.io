@@ -1,0 +1,10 @@
+<div class="publication-list">
+{% for paper in site.data.publications %}
+  <article class="publication-entry">
+    <div class="entry-label">{{ paper.topic }} <span class="status-label">{{ paper.status }}</span></div>
+    <h3>{{ paper.title }}</h3>
+    <p class="publication-authors">{{ paper.authors }}</p>
+    <p class="publication-venue">{{ paper.venue }}</p>
+  </article>
+{% endfor %}
+</div>
