@@ -40,3 +40,22 @@ bundle exec jekyll serve --host 127.0.0.1 --port 4000
 ```
 
 Open http://127.0.0.1:4000/. Restart Jekyll after changing `_config.yml`. Build output, installed dependencies, and local Bundler configuration are ignored by Git.
+
+## Blog
+
+The Blog navigation links to `/blog/`. Add original posts under `_posts/` using `YYYY-MM-DD-title.md`. The original template's example posts are excluded individually in `_config.yml`; new posts are included automatically.
+
+```yaml
+---
+title: "Your post title"
+date: 2026-10-31
+permalink: /blog/your-post-title/
+excerpt: "A short introduction."
+---
+```
+
+Write the article below the front matter. No example articles are published on the Blog page.
+
+## Project media
+
+The SURREALITY exhibition photo comes from HKUST's June 16, 2026 official news release, linked in its caption. It illustrates the exhibition; the AI voice guide contribution is described separately based on the supplied CV. See `images/projects/README.md` for image provenance.

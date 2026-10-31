@@ -1,10 +1,23 @@
 <div class="project-list">
 {% for project in site.data.projects %}
+  {% if include.current_only and project.current != true %}{% continue %}{% endif %}
   <article class="project-entry">
     <div class="entry-label">{{ project.label }} <span class="entry-period">{{ project.period }}</span></div>
     <h3>{{ project.title }}</h3>
+    {% if project.image %}
+    <figure class="project-figure">
+      <a href="{{ project.source_url }}"><img src="{{ project.image | relative_url }}" alt="{{ project.image_alt }}" loading="lazy" width="6615" height="4410"></a>
+      <figcaption><a href="{{ project.source_url }}">{{ project.image_caption }}</a></figcaption>
+    </figure>
+    {% endif %}
+    {% if project.context %}<p>{{ project.context }}</p>{% endif %}
     <p>{{ project.description }}</p>
     <p class="project-detail">{{ project.detail }}</p>
+    {% if project.links %}
+    <ul class="project-links" aria-label="Project resources">
+      {% for link in project.links %}<li><a href="{{ link.url }}">{{ link.label }} <span aria-hidden="true">↗</span></a></li>{% endfor %}
+    </ul>
+    {% endif %}
   </article>
 {% endfor %}
 </div>

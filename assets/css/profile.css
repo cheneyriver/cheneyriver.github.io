@@ -18,6 +18,14 @@ body { line-height: 1.75; padding-bottom: 0; margin-bottom: 0 !important; }
 .interest-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5em; margin: 1.5em 0 2em; }
 .interest-number { color: var(--profile-muted); font-size: .65em; font-family: ui-monospace, monospace; }
 .interest-grid h3 { margin-top: .6em; }
+.interest-grid--single { grid-template-columns: 1fr; }
+.project-figure { display: block; margin: 1em 0 1.2em; }
+.project-figure img { display: block; width: 100%; height: auto; border-radius: 8px; }
+.project-figure figcaption { margin-top: .5em; font-size: .65em; line-height: 1.6; }
+.project-figure figcaption a { color: var(--profile-muted); }
+.project-links { display: flex; flex-wrap: wrap; gap: .6em 1.4em; padding: 0; list-style: none; margin: 1em 0 .4em; }
+.project-links li { font-size: .75em; }
+.blog-entry { margin-bottom: 2.5em; }
 .interest-grid p { font-size: .8em; color: var(--profile-muted); }
 .project-entry, .publication-entry { padding: 1.4em 0; border-bottom: 1px solid var(--profile-line); }
 .project-entry:first-child, .publication-entry:first-child { padding-top: .4em; }

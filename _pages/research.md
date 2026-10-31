@@ -11,7 +11,7 @@ My current research at HKUST(GZ) explores LLM agents, multi-agent collaboration,
 
 ## Current projects
 
-{% include profile-projects.html %}
+{% include profile-projects.html current_only=true %}
 
 ## Earlier research
 

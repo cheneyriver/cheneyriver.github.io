@@ -1,0 +1,20 @@
+---
+layout: single
+title: "Blog"
+permalink: /blog/
+author_profile: true
+excerpt: "Notes and reflections by Junliang Chen."
+---
+
+{% if site.posts.size > 0 %}
+  {% for post in site.posts %}
+  <article class="blog-entry">
+    <p class="entry-label"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%B %d, %Y' }}</time></p>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt | markdownify }}
+    <a class="profile-text-link" href="{{ post.url | relative_url }}">Read article <span aria-hidden="true">↗</span></a>
+  </article>
+  {% endfor %}
+{% else %}
+  <p class="page-lead">No posts yet.</p>
+{% endif %}
