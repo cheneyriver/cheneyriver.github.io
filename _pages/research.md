@@ -27,7 +27,7 @@ I investigated cross-border mobility patterns of AI talent during the COVID-19 p
 **Research Assistant · City University of Hong Kong · May–September 2024**<br>
 Advisor: Zhicong Lu
 
-I studied legal influencers and legal information-seeking behavior on Chinese short-form video platforms. The research involved semi-structured interviews with **20 users** and thematic analysis, contributing to *“Law at Your Fingertips”*, accepted at the 29th ACM Conference on Computer-Supported Cooperative Work and Social Computing.
+I studied legal influencers and legal information-seeking behavior on Chinese short-form video platforms. The research involved semi-structured interviews with **20 users** and thematic analysis, contributing to [*“Law at Your Fingertips”*](https://doi.org/10.1145/3816962), published in the *Proceedings of the ACM on Human-Computer Interaction* (CSCW 2026).
 
 ## Research toolkit
 

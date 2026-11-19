@@ -56,6 +56,6 @@ excerpt: "A short introduction."
 
 Write the article below the front matter. No example articles are published on the Blog page.
 
-## Project media
+## Figures and project media
 
-The SURREALITY exhibition photo comes from HKUST's June 16, 2026 official news release, linked in its caption. It illustrates the exhibition; the AI voice guide contribution is described separately based on the supplied CV. See `images/projects/README.md` for image provenance.
+The Surreality 2.0 cover was supplied by Junliang Chen. The image for “Law at Your Fingertips” is [Figure 1 in the authors' arXiv preprint](https://arxiv.org/html/2603.26420v1#S4.F1), linked in its caption.

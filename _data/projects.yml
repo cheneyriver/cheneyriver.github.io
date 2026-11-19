@@ -11,10 +11,11 @@
   description: 'Developing an AI voice guide for a cross-region mixed-reality art exhibition. The interaction pipeline integrates speech recognition, intent understanding, retrieval, and LLM-based response generation.'
   detail: 'Features: exhibition navigation and interactive artwork explanations.'
   context: 'A cross-city mixed-reality and AI art exhibition presented by HKUST and HKUST(GZ), connecting the Hong Kong and Guangzhou campuses.'
-  image: '/images/projects/surreality-2-exhibition.jpg'
-  image_alt: 'Guests wearing mixed-reality headsets at the SURREALITY exhibition media preview at HKUST.'
-  image_caption: 'Exhibition media preview at HKUST, June 2026. Photo: HKUST.'
-  source_url: 'https://hkust.edu.hk/news/hkust-and-hkustgz-present-surreality-mr-ai-digital-art-cross-city-exhibition'
+  image: '/images/projects/surreality-2-cover.jpg'
+  image_width: 1554
+  image_height: 1080
+  image_alt: 'A glowing circular mixed-reality portal on a tree-lined campus path, with the SURREALITY logo in the lower right.'
+  image_caption: 'Surreality 2.0 exhibition visual.'
   links:
     - label: 'Official exhibition coverage'
       url: 'https://hkust.edu.hk/news/hkust-and-hkustgz-present-surreality-mr-ai-digital-art-cross-city-exhibition'

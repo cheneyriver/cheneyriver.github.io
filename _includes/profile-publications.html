@@ -5,6 +5,22 @@
     <h3>{{ paper.title }}</h3>
     <p class="publication-authors">{{ paper.authors }}</p>
     <p class="publication-venue">{{ paper.venue }}</p>
+    {% if paper.links %}
+    <ul class="profile-links" aria-label="Publication links">
+      {% for link in paper.links %}
+      <li><a href="{{ link.url | escape }}">{{ link.label | escape }} <span aria-hidden="true">↗</span></a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    {% if include.show_figures and paper.figure %}
+    <figure class="profile-figure">
+      <a href="{{ paper.figure.source | escape }}">
+        <img src="{{ paper.figure.image | relative_url }}" alt="{{ paper.figure.alt | escape }}" loading="lazy"
+             width="{{ paper.figure.width }}" height="{{ paper.figure.height }}">
+      </a>
+      <figcaption><a href="{{ paper.figure.source | escape }}">{{ paper.figure.caption | escape }}</a></figcaption>
+    </figure>
+    {% endif %}
   </article>
 {% endfor %}
 </div>

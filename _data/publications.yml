@@ -1,8 +1,20 @@
 - title: '“Law at Your Fingertips”: Understanding Legal Information Seeking on Video-Sharing Platforms in China'
-  authors: 'Zhiyang Wu, <strong>Junliang Chen</strong>, Qian Wan, Qing Xiao, Piao Hong Wang, Ge Gao, Zhicong Lu'
-  venue: '29th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)'
-  status: 'Accepted'
+  authors: 'Zhiyang Wu, <strong>Junliang Chen</strong>, Qian Wan, Qing Xiao, Piaohong Wang, Ge Gao, Zhicong Lu'
+  venue: 'Proceedings of the ACM on Human-Computer Interaction (CSCW 2026)'
+  status: 'Published'
   topic: 'Human–computer interaction'
+  links:
+    - label: 'ACM Digital Library'
+      url: 'https://doi.org/10.1145/3816962'
+    - label: 'arXiv preprint'
+      url: 'https://arxiv.org/abs/2603.26420'
+  figure:
+    image: '/images/publications/law-at-your-fingertips-figure-1.png'
+    width: 1295
+    height: 675
+    alt: 'Annotated screenshot of a legal livestream on Douyin, highlighting live chat, voice call requests, and virtual gifts.'
+    caption: 'A legal livestream on Douyin. Figure 1 from Wu et al. (2026).'
+    source: 'https://arxiv.org/html/2603.26420v1#S4.F1'
 - title: 'Scientists Moving across Borders during the Pandemic'
   authors: 'Meijun Liu, Weiping Li, <strong>Junliang Chen</strong>, Yi Bu'
   venue: 'Conference on Science and Innovation Policy 2025'

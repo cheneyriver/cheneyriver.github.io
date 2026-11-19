@@ -31,6 +31,6 @@ redirect_from:
 
 ## Publications
 
-{% include profile-publications.html %}
+{% include profile-publications.html show_figures=true %}
 
 <div class="contact-note"><h2>Get in touch</h2><p>For research discussions and collaboration, reach me at <a href="mailto:jchen873@connect.hkust-gz.edu.cn">jchen873@connect.hkust-gz.edu.cn</a>.</p></div>
