@@ -56,6 +56,6 @@ excerpt: "A short introduction."
 
 Write the article below the front matter. No example articles are published on the Blog page.
 
-## Figures and project media
+## Project media
 
-The Surreality 2.0 cover was supplied by Junliang Chen. The image for “Law at Your Fingertips” is [Figure 1 in the authors' arXiv preprint](https://arxiv.org/html/2603.26420v1#S4.F1), linked in its caption.
+The Surreality 2.0 cover was supplied by Junliang Chen.

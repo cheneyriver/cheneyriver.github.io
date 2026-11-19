@@ -12,15 +12,6 @@
       {% endfor %}
     </ul>
     {% endif %}
-    {% if include.show_figures and paper.figure %}
-    <figure class="profile-figure">
-      <a href="{{ paper.figure.source | escape }}">
-        <img src="{{ paper.figure.image | relative_url }}" alt="{{ paper.figure.alt | escape }}" loading="lazy"
-             width="{{ paper.figure.width }}" height="{{ paper.figure.height }}">
-      </a>
-      <figcaption><a href="{{ paper.figure.source | escape }}">{{ paper.figure.caption | escape }}</a></figcaption>
-    </figure>
-    {% endif %}
   </article>
 {% endfor %}
 </div>
